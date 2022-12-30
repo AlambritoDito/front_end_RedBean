@@ -1,0 +1,16 @@
+.mainMenu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    text-align: center;
+
+}
+
+body{
+    background-image: linear-gradient(to right,RGB(02,255,182),RGB(68,90,126));
+}
+
+button{
+    padding: 10px;
+}

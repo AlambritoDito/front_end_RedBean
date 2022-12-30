@@ -10,7 +10,7 @@ body, html {
 body {
     display:table-cell;
     vertical-align:middle;
-    background-color: RGB(68,90,126);
+    background-image: linear-gradient(to right,RGB(02,255,182),RGB(68,90,126));
 }
 form {
     display:table;/* shrinks to fit conntent */
@@ -33,11 +33,11 @@ form {
    
 }
 
-#submitbutton{
+button{
     border-radius: 10px;
     background-color: coral;
     text-align: center;
-    text-align: center;
+    
     
     
 }
@@ -46,3 +46,4 @@ form {
 
     text-align: center;
 }
+
